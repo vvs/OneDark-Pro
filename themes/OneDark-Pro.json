@@ -83,7 +83,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#5c637",
+        "foreground": "#818998",
         "fontStyle": "italic"
       }
     },
@@ -91,7 +91,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#5C6370",
+        "foreground": "#818998",
         "fontStyle": "italic"
       }
     },
@@ -99,7 +99,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#5C6370"
+        "foreground": "#818998"
       }
     },
     {
@@ -449,7 +449,7 @@
       "name": "Punctuation Definition Comment",
       "scope": "punctuation.definition.comment",
       "settings": {
-        "foreground": "#5C6370"
+        "foreground": "#818998"
       }
     },
     {
